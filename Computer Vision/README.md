@@ -63,5 +63,6 @@ Install Numpy:
 Install opencv:
 - pip install opencv-contrib-python
 
-
+**Important Notes**
+- Ubuntu 22.0 is currently running on the Orin > Version 18.0 was installed originally, version 20.0 was running before it was updated to 22.0
 
